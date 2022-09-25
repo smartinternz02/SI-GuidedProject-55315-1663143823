@@ -12,8 +12,7 @@ Add User Panel,Add Admin Panel,Provide Login authentication,Add image to user pr
 
 Google Developers Link- https://g.dev/UTKARSH-SAH
 
-PROJECT REPORT- https://github.com/smartinternz02/SI-GuidedProject-55315-1663143823/blob/master/SPSGP-55315-Virtual%20Internship%20-%20Android%20Application%20Development%20Using%20Kotlin.docx
-
+PROJECT REPORT- https://github.com/smartinternz02/SI-GuidedProject-55315-1663143823/blob/master/SPSGP-55315-Virtual%20Internship%20-%20Android%20Application%20Development%20Using%20Kotlin.pdf
 SBID: SB20220203362
 
 EMAIL- utkarshsah2001@gmail.com
